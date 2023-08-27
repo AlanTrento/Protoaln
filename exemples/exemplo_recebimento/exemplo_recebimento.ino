@@ -1,4 +1,6 @@
 
+/*To receive the messages, a string of int16 with 7 positions must be created, where up to 7 messages of 16 bytes each will be received.*/
+
 #include "Protoaln.h"
 Protoaln p;
 int16_t mensageReceived [7];
