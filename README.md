@@ -19,5 +19,5 @@ Protoaln is a library designed to facilitate message transmission and reception 
 
 ## Project Demo
 
-The Protoaln library enables efficient data transmission and reception using the LoRa UART module. By performing internal checksum calculations, it ensures the reliability of the transmitted messages.
+The Protoaln library enables efficient and simple data transmission and reception using the LoRa UART module. By performing internal checksum calculations, it ensures the reliability of the transmitted messages.
 
